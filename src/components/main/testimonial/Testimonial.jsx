@@ -2,7 +2,7 @@ import "./testimonial.css";
 
 function Testimonial() {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid" id="testimonial">
       <div className="container mt-5">
         <h3>TESTIMONIALS</h3>
         <h2 className="mt-3">

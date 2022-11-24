@@ -1,7 +1,7 @@
 import "./aboutus.css";
 function AboutUs() {
   return (
-    <div className="conf container-fluid">
+    <div className="conf container-fluid" id="about">
       <div className="container">
         <div className="row">
           <div className="col-6 mt-5">

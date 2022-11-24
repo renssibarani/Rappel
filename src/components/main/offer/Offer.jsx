@@ -1,7 +1,7 @@
 import "./offer.css";
 function Offer() {
   return (
-    <div className="container-fluid conf">
+    <div className="container-fluid conf" id="offer">
       <div className="container">
         <div className="row">
           <div className="col-6 mt-5">

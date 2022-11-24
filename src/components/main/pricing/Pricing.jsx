@@ -1,8 +1,9 @@
+import { Icon } from "@iconify/react";
 import "./pricing.css";
 
 function Pricing() {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid" id="pricing">
       <div className="container mt-5">
         <h4 className="text-center" style={{ color: "blue" }}>
           PRICING
@@ -26,13 +27,16 @@ function Pricing() {
               <p className="ms-2">For organizing every corner of your life.</p>
               <div className="pric card-body text-center">
                 <p className="card-text">
-                  <i className="fa-solid fa-check"></i> Free 3 Tasks Document
+                  <Icon icon="material-symbols:check-circle-outline" /> Free 3
+                  Tasks Document
                 </p>
                 <p className="card-text">
-                  <i className="fa-solid fa-check"></i> Free 5 Sharing Project
+                  <Icon icon="material-symbols:check-circle-outline" /> Free 5
+                  Sharing Project
                 </p>
                 <p className="card-text">
-                  <i className="fa-solid fa-check"></i> Free 3 Attachments
+                  <Icon icon="material-symbols:check-circle-outline" /> Free 3
+                  Attachments
                 </p>
                 <a href="#" className="btn btn-primary">
                   Get Started
@@ -54,19 +58,22 @@ function Pricing() {
               </h3>
               <p className="ms-2">For organizing every corner of your life.</p>
               <div className="pric card-body text-center">
-                <p>IDR 30.000 / Month</p>
+                <p style={{ color: "red" }}>IDR 30.000 / Month</p>
                 <p className="card-text">
-                  <i className="fa-solid fa-check"></i> Unlimited Tasks Document
+                  <Icon icon="material-symbols:check-circle-outline" />{" "}
+                  Unlimited Tasks Document
                 </p>
                 <p className="card-text">
-                  <i className="fa-solid fa-check"></i> Unlimited Sharing
-                  Project
+                  <Icon icon="material-symbols:check-circle-outline" />{" "}
+                  Unlimited Sharing Project
                 </p>
                 <p className="card-text">
-                  <i className="fa-solid fa-check"></i> Collaborative Workspace
+                  <Icon icon="material-symbols:check-circle-outline" />{" "}
+                  Collaborative Workspace
                 </p>
                 <p className="card-text">
-                  <i className="fa-solid fa-check"></i> Update Version
+                  <Icon icon="material-symbols:check-circle-outline" /> Update
+                  Version
                 </p>
                 <a href="#" className="btn btn-primary">
                   Get Started
@@ -88,19 +95,21 @@ function Pricing() {
               </h3>
               <p className="ms-2">For organizing every corner of your life.</p>
               <div className="pric card-body text-center">
-                <p>IDR 300.000 / one time</p>
+                <p style={{ color: "red" }}>IDR 300.000 / one time</p>
                 <p className="card-text">
-                  <i className="fa-solid fa-check"></i> Unlimited Tasks Document
+                  <Icon icon="material-symbols:check-circle-outline" />{" "}
+                  Unlimited Tasks Document
                 </p>
                 <p className="card-text">
-                  <i className="fa-solid fa-check"></i> Unlimited Sharing
-                  Project
+                  <Icon icon="material-symbols:check-circle-outline" />{" "}
+                  Unlimited Sharing Project
                 </p>
                 <p className="card-text">
-                  <i className="fa-solid fa-check"></i> Collaborative Workspace
+                  <Icon icon="material-symbols:check-circle-outline" />{" "}
+                  Collaborative Workspace
                 </p>
                 <p className="card-text">
-                  <i className="fa-solid fa-x"></i> Upgrade Version
+                  <Icon icon="ph:x-circle-light" /> Upgrade Version
                 </p>
                 <a href="#" className="btn btn-primary">
                   Get Started

@@ -69,7 +69,12 @@ function Login() {
                     class="btn btn-primary"
                     style={{ borderRadius: "15px" }}
                   >
-                    SIGN IN
+                    <a
+                      href="/dashboard"
+                      style={{ color: "#fff", textDecoration: "none" }}
+                    >
+                      SIGN IN
+                    </a>
                   </button>
                   <br />
                   <button
@@ -86,7 +91,7 @@ function Login() {
                     Continue with Google
                   </button>
                   <p>
-                    Don't have an account?{" "}
+                    Don't have an account?
                     <a href="/signup" style={{ textDecoration: "none" }}>
                       Sign Up
                     </a>

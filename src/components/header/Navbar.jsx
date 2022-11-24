@@ -24,12 +24,12 @@ const Navs = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link active" href="#">
+              <a className="nav-link active" href="#offer">
                 About Us
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link active" href="#">
+              <a className="nav-link active" href="#pricing">
                 Pricing
               </a>
             </li>

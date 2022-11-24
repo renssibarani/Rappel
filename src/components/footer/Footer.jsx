@@ -1,3 +1,4 @@
+import { Icon } from "@iconify/react";
 import "./footer.css";
 
 function Footer() {
@@ -15,14 +16,40 @@ function Footer() {
               to help people understand you <br />
               better
             </p>
+            <Icon icon="ic:baseline-facebook" />
+            <Icon icon="ant-design:twitter-circle-filled" />
+            <Icon icon="entypo-social:linkedin-with-circle" />
+            <Icon icon="uil:instagram-alt" />
             <div className="d-flex align-items-end">Copyright Rappel 2022</div>
           </div>
           <div className="mt-5 col-4">
             <h3>Quick Links</h3>
-            <p>Services</p>
-            <p>Portofolio</p>
-            <p>About Us</p>
-            <p>Contact Us</p>
+            <p>
+              <a
+                href="#offer"
+                style={{ textDecoration: "none", color: "black" }}
+              >
+                Services
+              </a>
+            </p>
+            <p>
+              <a href="#" style={{ textDecoration: "none", color: "black" }}>
+                Portofolio
+              </a>
+            </p>
+            <p>
+              <a
+                href="#testimonial"
+                style={{ textDecoration: "none", color: "black" }}
+              >
+                Testimonial
+              </a>
+            </p>
+            <p>
+              <a href="#" style={{ textDecoration: "none", color: "black" }}>
+                Contact Us
+              </a>
+            </p>
           </div>
           <div className="mt-5 col-4">
             <h3>Addres</h3>
