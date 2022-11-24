@@ -16,9 +16,9 @@ function Previous() {
                     </div>
                     <div class="col-6">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         width="90"
-                        height="30"
+                        height="90"
                         alt=""
                       />
                     </div>
@@ -32,20 +32,20 @@ function Previous() {
                   <div class="row">
                     <div class="col-2">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         alt=""
-                        width="60"
-                        height="20"
+                        width="50"
+                        height="50"
                       />
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>45 mins ago</p>
+                      <p style={{ fontSize: "10pt" }}>45 mins ago</p>
                     </div>
                     <div class="col-2">
-                      <p style={{ fontSize: "11pt" }}>share</p>
+                      <p style={{ fontSize: "10pt" }}>share</p>
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>Watch Later</p>
+                      <p style={{ fontSize: "10pt" }}>Watch Later</p>
                     </div>
                   </div>
                 </div>
@@ -64,9 +64,9 @@ function Previous() {
                     </div>
                     <div class="col-6">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         width="90"
-                        height="30"
+                        height="90"
                         alt=""
                       />
                     </div>
@@ -80,20 +80,20 @@ function Previous() {
                   <div class="row">
                     <div class="col-2">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         alt=""
-                        width="60"
-                        height="20"
+                        width="50"
+                        height="50"
                       />
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>45 mins ago</p>
+                      <p style={{ fontSize: "10pt" }}>45 mins ago</p>
                     </div>
                     <div class="col-2">
-                      <p style={{ fontSize: "11pt" }}>share</p>
+                      <p style={{ fontSize: "10pt" }}>share</p>
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>Watch Later</p>
+                      <p style={{ fontSize: "10pt" }}>Watch Later</p>
                     </div>
                   </div>
                 </div>
@@ -112,9 +112,9 @@ function Previous() {
                     </div>
                     <div class="col-6">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         width="90"
-                        height="30"
+                        height="90"
                         alt=""
                       />
                     </div>
@@ -128,20 +128,20 @@ function Previous() {
                   <div class="row">
                     <div class="col-2">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         alt=""
-                        width="60"
-                        height="20"
+                        width="50"
+                        height="50"
                       />
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>45 mins ago</p>
+                      <p style={{ fontSize: "10pt" }}>45 mins ago</p>
                     </div>
                     <div class="col-2">
-                      <p style={{ fontSize: "11pt" }}>share</p>
+                      <p style={{ fontSize: "10pt" }}>share</p>
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>Watch Later</p>
+                      <p style={{ fontSize: "10pt" }}>Watch Later</p>
                     </div>
                   </div>
                 </div>
@@ -162,9 +162,9 @@ function Previous() {
                     </div>
                     <div class="col-6">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         width="90"
-                        height="30"
+                        height="90"
                         alt=""
                       />
                     </div>
@@ -178,20 +178,20 @@ function Previous() {
                   <div class="row">
                     <div class="col-2">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         alt=""
-                        width="60"
-                        height="20"
+                        width="50"
+                        height="50"
                       />
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>45 mins ago</p>
+                      <p style={{ fontSize: "10pt" }}>45 mins ago</p>
                     </div>
                     <div class="col-2">
-                      <p style={{ fontSize: "11pt" }}>share</p>
+                      <p style={{ fontSize: "10pt" }}>share</p>
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>Watch Later</p>
+                      <p style={{ fontSize: "10pt" }}>Watch Later</p>
                     </div>
                   </div>
                 </div>
@@ -210,9 +210,9 @@ function Previous() {
                     </div>
                     <div class="col-6">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         width="90"
-                        height="30"
+                        height="90"
                         alt=""
                       />
                     </div>
@@ -226,20 +226,20 @@ function Previous() {
                   <div class="row">
                     <div class="col-2">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         alt=""
-                        width="60"
-                        height="20"
+                        width="50"
+                        height="50"
                       />
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>45 mins ago</p>
+                      <p style={{ fontSize: "10pt" }}>45 mins ago</p>
                     </div>
                     <div class="col-2">
-                      <p style={{ fontSize: "11pt" }}>share</p>
+                      <p style={{ fontSize: "10pt" }}>share</p>
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>Watch Later</p>
+                      <p style={{ fontSize: "10pt" }}>Watch Later</p>
                     </div>
                   </div>
                 </div>
@@ -258,9 +258,9 @@ function Previous() {
                     </div>
                     <div class="col-6">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         width="90"
-                        height="30"
+                        height="90"
                         alt=""
                       />
                     </div>
@@ -274,20 +274,20 @@ function Previous() {
                   <div class="row">
                     <div class="col-2">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         alt=""
-                        width="60"
-                        height="20"
+                        width="50"
+                        height="50"
                       />
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>45 mins ago</p>
+                      <p style={{ fontSize: "10pt" }}>45 mins ago</p>
                     </div>
                     <div class="col-2">
-                      <p style={{ fontSize: "11pt" }}>share</p>
+                      <p style={{ fontSize: "10pt" }}>share</p>
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>Watch Later</p>
+                      <p style={{ fontSize: "10pt" }}>Watch Later</p>
                     </div>
                   </div>
                 </div>
@@ -308,9 +308,9 @@ function Previous() {
                     </div>
                     <div class="col-6">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         width="90"
-                        height="30"
+                        height="90"
                         alt=""
                       />
                     </div>
@@ -324,20 +324,20 @@ function Previous() {
                   <div class="row">
                     <div class="col-2">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         alt=""
-                        width="60"
-                        height="20"
+                        width="50"
+                        height="50"
                       />
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>45 mins ago</p>
+                      <p style={{ fontSize: "10pt" }}>45 mins ago</p>
                     </div>
                     <div class="col-2">
-                      <p style={{ fontSize: "11pt" }}>share</p>
+                      <p style={{ fontSize: "10pt" }}>share</p>
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>Watch Later</p>
+                      <p style={{ fontSize: "10pt" }}>Watch Later</p>
                     </div>
                   </div>
                 </div>
@@ -356,9 +356,9 @@ function Previous() {
                     </div>
                     <div class="col-6">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         width="90"
-                        height="30"
+                        height="90"
                         alt=""
                       />
                     </div>
@@ -372,20 +372,20 @@ function Previous() {
                   <div class="row">
                     <div class="col-2">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         alt=""
-                        width="60"
-                        height="20"
+                        width="50"
+                        height="50"
                       />
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>45 mins ago</p>
+                      <p style={{ fontSize: "10pt" }}>45 mins ago</p>
                     </div>
                     <div class="col-2">
-                      <p style={{ fontSize: "11pt" }}>share</p>
+                      <p style={{ fontSize: "10pt" }}>share</p>
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>Watch Later</p>
+                      <p style={{ fontSize: "10pt" }}>Watch Later</p>
                     </div>
                   </div>
                 </div>
@@ -404,9 +404,9 @@ function Previous() {
                     </div>
                     <div class="col-6">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         width="90"
-                        height="30"
+                        height="90"
                         alt=""
                       />
                     </div>
@@ -420,20 +420,20 @@ function Previous() {
                   <div class="row">
                     <div class="col-2">
                       <img
-                        src="../Image/Logo.png"
+                        src="../Image/logo_events.png"
                         alt=""
-                        width="60"
-                        height="20"
+                        width="50"
+                        height="50"
                       />
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>45 mins ago</p>
+                      <p style={{ fontSize: "10pt" }}>45 mins ago</p>
                     </div>
                     <div class="col-2">
-                      <p style={{ fontSize: "11pt" }}>share</p>
+                      <p style={{ fontSize: "10pt" }}>share</p>
                     </div>
                     <div class="col-4">
-                      <p style={{ fontSize: "11pt" }}>Watch Later</p>
+                      <p style={{ fontSize: "10pt" }}>Watch Later</p>
                     </div>
                   </div>
                 </div>

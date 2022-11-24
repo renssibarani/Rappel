@@ -24,12 +24,15 @@ function SideBar() {
             </a>
           </li>
           <li className="divider" dataText="main">
-            Main
+            Tasks
           </li>
           <li>
             <a href="#">
-              <i className="bx bxs-inbox icon"></i> Elements
-              <i className="bx bx-chevron-right icon-right"></i>
+              <Icon icon="ic:baseline-work-outline" className="icon" /> Personal
+              <Icon
+                icon="material-symbols:navigate-next"
+                className="icon-right"
+              />
             </a>
             <ul className="side-dropdown">
               <li>
@@ -48,26 +51,39 @@ function SideBar() {
           </li>
           <li>
             <a href="#">
-              <i className="bx bxs-chart icon"></i> Charts
+              <Icon icon="pajamas:work" className="icon" /> Work
+              <Icon
+                icon="material-symbols:navigate-next"
+                className="icon-right"
+              />
             </a>
           </li>
           <li>
             <a href="#">
-              <i className="bx bxs-widget icon"></i> Widgets
+              <Icon icon="ph:chart-pie-thin" className="icon" /> Overview
+              <Icon
+                icon="material-symbols:navigate-next"
+                className="icon-right"
+              />
             </a>
           </li>
-          <li className="divider" dataText="table and forms">
-            Table and forms
+
+          <li>
+            <a href="#">
+              <Icon icon="ic:round-table-chart" className="icon" /> Completed
+              <Icon
+                icon="material-symbols:navigate-next"
+                className="icon-right"
+              />
+            </a>
           </li>
           <li>
             <a href="#">
-              <i className="bx bx-table icon"></i> Tables
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i className="bx bxs-notepad icon"></i> Forms
-              <i className="bx bx-chevron-right icon-right"></i>
+              <Icon icon="mdi:event-heart" className="icon" /> Events
+              <Icon
+                icon="material-symbols:navigate-next"
+                className="icon-right"
+              />
             </a>
             <ul className="side-dropdown">
               <li>
@@ -85,17 +101,6 @@ function SideBar() {
             </ul>
           </li>
         </ul>
-        <div className="ads">
-          <div className="wrapper">
-            <a href="#" className="btn-upgrade">
-              Upgrade
-            </a>
-            <p>
-              Become a <span>PRO</span> member and enjoy{" "}
-              <span>All Features</span>
-            </p>
-          </div>
-        </div>
       </div>
 
       <div id="content">

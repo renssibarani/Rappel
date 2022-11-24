@@ -22,12 +22,7 @@ function Upcoming() {
             <div className="card" style={{ backgroundColor: "#c7e2fc" }}>
               <div className="card-body rounded" style={{ padding: "0" }}>
                 <div className="m-3">
-                  <img
-                    src="../Image/logo_events.png"
-                    width="90"
-                    height="90"
-                    alt=""
-                  />
+                  <img src="../Image/logo.png" width="90" height="30" alt="" />
                   <div className="row mt-5">
                     <div className="col-6">
                       <p>
@@ -71,12 +66,7 @@ function Upcoming() {
             <div className="card" style={{ backgroundColor: "#c7e2fc" }}>
               <div className="card-body rounded" style={{ padding: "0" }}>
                 <div className="m-3">
-                  <img
-                    src="../Image/logo_events.png"
-                    width="90"
-                    height="90"
-                    alt=""
-                  />
+                  <img src="../Image/logo.png" width="90" height="30" alt="" />
                   <div className="row mt-5">
                     <div className="col-6">
                       <p>
@@ -121,12 +111,7 @@ function Upcoming() {
             <div className="card" style={{ backgroundColor: "#c7e2fc" }}>
               <div className="card-body rounded" style={{ padding: "0" }}>
                 <div className="m-3">
-                  <img
-                    src="../Image/logo_events.png"
-                    width="90"
-                    height="90"
-                    alt=""
-                  />
+                  <img src="../Image/logo.png" width="90" height="30" alt="" />
                   <div className="row mt-5">
                     <div className="col-6">
                       <p>
